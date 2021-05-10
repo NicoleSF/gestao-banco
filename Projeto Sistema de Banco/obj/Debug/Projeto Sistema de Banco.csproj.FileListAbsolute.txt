@@ -1,0 +1,7 @@
+D:\Desktop\Projeto\Projeto Sistema de Banco\Projeto Sistema de Banco\bin\Debug\Projeto Sistema de Banco.exe.config
+D:\Desktop\Projeto\Projeto Sistema de Banco\Projeto Sistema de Banco\bin\Debug\Projeto Sistema de Banco.exe
+D:\Desktop\Projeto\Projeto Sistema de Banco\Projeto Sistema de Banco\bin\Debug\Projeto Sistema de Banco.pdb
+D:\Desktop\Projeto\Projeto Sistema de Banco\Projeto Sistema de Banco\obj\Debug\Projeto Sistema de Banco.csprojAssemblyReference.cache
+D:\Desktop\Projeto\Projeto Sistema de Banco\Projeto Sistema de Banco\obj\Debug\Projeto Sistema de Banco.csproj.CoreCompileInputs.cache
+D:\Desktop\Projeto\Projeto Sistema de Banco\Projeto Sistema de Banco\obj\Debug\Projeto Sistema de Banco.exe
+D:\Desktop\Projeto\Projeto Sistema de Banco\Projeto Sistema de Banco\obj\Debug\Projeto Sistema de Banco.pdb
